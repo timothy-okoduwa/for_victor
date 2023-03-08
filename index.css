@@ -1,0 +1,11 @@
+.navbar{
+    background-color: blueviolet;
+    color: white !important;
+}
+.nav-link{
+    color: white;
+}
+.navbar-brand{
+    width: 400px;
+
+}
